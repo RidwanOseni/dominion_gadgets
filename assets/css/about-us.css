@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    border: 0px;
+    background-color: #444442 !important;
+}
+
+.col-md-7 {
+    width: 400px !important;
+    height: auto !important;
+    background-color: #023618 !important;
+}
+
+.container {
+    margin-top: 0px;
+    height: 400px;
+    background-color: #2D2D2D;
+    color:white;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 0px;
+}
+
+.jumbotron {
+    padding: 0px;
+}

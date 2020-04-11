@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-color: #444442 !important;
+    color: white !important;
+    
+}
+
+.carousel-inner {
+    width: 300px;
+}
+
+.container-fluid {
+    margin-top: 100px;
+}
+
+/* .new_product {
+    background-color: lightcoral;
+    width: 60px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+} */
+

@@ -1,0 +1,186 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+.header_section {
+    width: 100%;
+    height: 120px;
+    color: white;
+    background-color: black;
+}
+
+.sidenav_section {
+    width: 300px;
+    height: 400px;
+    background-color: #96C5B0;
+    float: left;
+    
+}
+
+.body_section {
+    width: 100%;
+    background-color: #ADF1D2;
+    height: 700px;
+    }
+
+#userPage {
+    font-size: 80px;
+    /* padding-top: 20px; */
+    /* background-color: #FBFBFB; */
+    /* width: 100px; */
+    color: #F78764;
+    border-radius: 40px;
+}
+
+#admin_text {
+    margin-top: 0px;  
+}
+
+p#admin_text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sidenav_list li {
+    padding: 20px;
+    border-bottom: 2px solid #F78764;
+    color: black;
+    text-decoration: none;
+    margin-top: 0px;
+}
+
+ul.sidenav_list li {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sidenav_list li:hover {
+    background-color: #F78764;
+    color: white;
+}
+
+.input-field {
+    display: block;
+}
+
+#user {
+    font-size: 70px !important;
+    
+    color: #F78764 !important;
+    border-radius: 40px !important;
+}
+
+/* #admin_header {
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid black;
+    background-color: dimgrey;
+    
+}
+
+#header_row {
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+.form-inline {
+    margin-left: 100px;
+    
+    }
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 10px ;
+    padding-left: 10px;
+}
+
+input {
+    width: 350px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#admin_nav {
+    background-color: fuchsia;
+    display: flex;
+    overflow: hidden;
+}
+
+.col-md-3 {
+    margin-right: none;
+}
+
+#admin_header {
+    width: 100%;
+}
+
+.nav {
+    width: 100px;
+    margin-left: 5px;
+    line-height: 4rem;
+    padding-left: 0px;
+}
+
+.nav-item {
+    
+    list-style: none;
+    width: 100px;
+    padding-left: 10px;
+    
+}
+
+.jumbotron {
+    width: 100%;
+    margin-left: 20px;
+    padding-left: 0px;
+    
+    
+}
+
+#icon-row {
+    background-color: mistyrose;
+    height: 22rem;
+    display: flex;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 20px;
+
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+img {
+    height: 150px;
+    width: 200px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.card {
+    margin-right: 40px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#admin-field {
+    margin-left: 105px;
+    margin-top: 15px;
+    background-color: peru;
+    height: 11rem;
+    padding-top: 10px;
+}
+
+#jumbo-space {
+    background-color: seagreen;
+    height: 15rem;
+    padding-top: 18px;
+    margin-left: 0px;
+
+}
+ */

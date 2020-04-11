@@ -1,0 +1,27 @@
+/* body{
+    width: 100%;
+}
+
+.homepage-carousel img{
+    height:30rem !important;
+}
+
+.quick-menu{
+    width:inherit !important;
+    margin-top: 0px !important;
+}
+
+.jumbotron {
+    margin-bottom: 0px !important;
+} */
+
+
+
+body {
+    background-color: white !important;
+    color: black !important;
+}
+
+.promo_section {
+    display: flex;
+}
