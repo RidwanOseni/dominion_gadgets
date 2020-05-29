@@ -55,7 +55,7 @@ if (isset($_POST["regsubmit"])) {
       }
 
       // To check if telephone number only contains number and selected signs
-      if (!preg_match('/^[0-9]{3}-[0-9]{3}-[0-9]{4}$/', $_POST['telephone'])) {
+      if (!preg_match('/^(?:\+?1[-. ]?)?\(?([2-9][0-8][0-9])\)?[-. ]?([2-9][0-9]{2})[-. ]?([0-9]{4})$/', $_POST['telephone'])) {
         $telephone = "Telephone number not valid";
       }
 
